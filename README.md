@@ -6,7 +6,7 @@ In this project was used dataset which contains 30000 observations as well as 24
 The project includes Exploratory Data Analysis, grouping, visualization, splitting the training and testing data, tuning of hyperparameters by GridSearchCV method, predictions as well as Model Evaluation. Furthermore, results of training and test datasets were compared with each other to exclude possible of overfitting. 
 
 This project was developed for the purpose of practicing machine learning and data mining in Python.
-##### It is preferred to run/view the project via Jupyter Notebook (.ipynb) than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
+##### It is preferred to run/view the project via Jupyter Notebook (.ipynb), sometimes it is required to press "Reload" to load the file, than via a browser (HTML). To see the HTML version you first need to download the HTML file and then run it in your browser.
 
 ### Programming language and platform
 * Python version is 3.7.4
